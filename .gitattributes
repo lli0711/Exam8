@@ -10,5 +10,5 @@
 *.gitattributes text
 .gitignore text
 *.md text
-#*.xlsx  diff=xdoc2txt
+*.xlsx  diff=xdoc2txt
 *.xlsx  diff=excel
